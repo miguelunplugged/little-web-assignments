@@ -1,0 +1,61 @@
+#circle {
+  background: lightgray;
+  border-radius: 75px;
+  height: 125px;
+  left: 350px;
+  position: relative;
+  top: -390px;
+  width: 125px;
+}
+
+.container {
+  border: 2px solid lightgray;
+  border-radius: 10px;
+  font-family: sans-serif;
+  height: 400px;
+  padding: 45px;
+  width: 400px;
+}
+
+.div3 {
+  bottom: 250px;
+  position: relative;
+}
+
+.div4 {
+  bottom: 250px;
+  position: relative;
+}
+
+h2 {
+  color: lightgreen;
+}
+
+p {
+  color: lightgray;
+}
+
+p strong {
+  color: gray;
+  font-size: 25px;
+}
+
+#two {
+  color: white;
+  font-size: 60px;
+  left: 395px;
+  position: relative;
+  top: -235px;
+  z-index: 10;
+}
+
+ul li {
+  color: lightgray;
+  font-size: 25px;
+  line-height: 35px;
+  text-decoration: underline;
+}
+
+ul li span {
+  color: darkblue;
+}
